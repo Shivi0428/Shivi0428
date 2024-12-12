@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7c4d1da2-e591-469c-87ee-f78daa75cccf)
+
 - 👋 Hi, I’m @Shivi0428
 - 👀 I’m interested in data analysis  
 - 🌱 I’m currently learning data science
